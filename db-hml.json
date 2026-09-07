@@ -1,0 +1,204 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "titulo": "Batman: A Queda do Morcego - Parte 1",
+            "lingua_original": "en",
+            "titulo_original": "Batman: Knightfall Part 1: Knightfall",
+            "descricao": "O Asilo Arkham foi destruído, e todos os seus detentos foram soltos em Gotham City. Enquanto corre contra o tempo para capturar alguns de seus maiores inimigos, Batman é levado ao limite de suas capacidades físicas e mentais, rumo a um confronto final contra uma nova ameaça: o homem chamado Bane!",
+            "painel": "https://image.tmdb.org/t/p/w500/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/qJJTWt69ZUxFQU0SUh0dWN9bUqf.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 2,
+            "titulo": "Pinóquio: Maldição de Madeira",
+            "lingua_original": "en",
+            "titulo_original": "Pinocchio: Unstrung",
+            "descricao": "O boneco de madeira Pinóquio é trazido à vida por forças macabras. Distante da inocência original, sua jornada para se tornar um menino de verdade é marcada por violência e vingança. À medida que Pinóquio persegue brutalmente aqueles que cruzam seu caminho, antigos laços familiares são distorcidos em horrores impensáveis.",
+            "painel": "https://image.tmdb.org/t/p/w500/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/wgO649swkzsI58q3ikpxYNvkwv7.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 3,
+            "titulo": "Rosebush Pruning",
+            "lingua_original": "en",
+            "titulo_original": "Rosebush Pruning",
+            "descricao": "Sob o sol da Catalunha, uma rica família branca norte-americana vive em um isolamento hedonista, buscando amor e validação uns nos outros, em suas roupas de grife e na música pop. Quando Jack, o irmão mais velho, apresenta sua noiva para a família, tensões há muito tempo reprimidas vêm à tona e os laços de sangue da matilha começam a se romper.",
+            "painel": "https://image.tmdb.org/t/p/w500/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/rsHEVjzxU8cxz1sm3vboj99daNv.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 4,
+            "titulo": "Dia D",
+            "lingua_original": "en",
+            "titulo_original": "Disclosure Day",
+            "descricao": "O mundo entra em colapso quando uma meteorologista, em plena transmissão ao vivo, é dominada por uma força invisível, perdendo a fala e emitindo sons perturbadores. Enquanto fenômenos inexplicáveis e sinais de controle mental em massa se espalham, um informante tenta expor segredos governamentais guardados por décadas.",
+            "painel": "https://image.tmdb.org/t/p/w500/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/pmff1wjKrgJi92PPr346lAifzlg.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 5,
+            "titulo": "Backrooms: Um Não-Lugar",
+            "lingua_original": "en",
+            "titulo_original": "Backrooms",
+            "descricao": "Em 1990, o vendedor de móveis Clark descobre em sua loja um portal para os \"Backrooms\", um labirinto infinito de escritórios surreais. Fascinado, ele convence sua funcionária Kat e o namorado dela a mapearem as anomalias do local. Após o desaparecimento de Clark, sua terapeuta, a Dra. Mary Kline, mergulha na dimensão impossível para resgatá-lo, sendo forçada a confrontar seus próprios traumas enquanto busca uma saída.",
+            "painel": "https://image.tmdb.org/t/p/w500/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/a1pgQeEge47xrS4jGlDwIHiieVK.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 6,
+            "titulo": "Um Sonho de Liberdade",
+            "lingua_original": "en",
+            "titulo_original": "The Shawshank Redemption",
+            "descricao": "Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.",
+            "painel": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/umX3lBhHoTV7Lsci140Yr8VpXyN.jpg",
+            "ano": 1994
+        },
+        {
+            "id": 7,
+            "titulo": "Devoradores de Estrelas",
+            "lingua_original": "en",
+            "titulo_original": "Project Hail Mary",
+            "descricao": "O professor de ciências Ryland Grace acorda em uma espaçonave a anos-luz de casa, sem nenhuma lembrança de quem é ou como chegou ali. À medida que sua memória retorna, ele começa a descobrir sua missão: resolver o enigma de uma substância misteriosa que está fazendo o Sol morrer. Ele precisará recorrer ao seu conhecimento científico e a ideias nada convencionais para salvar tudo na Terra da extinção… mas uma amizade inesperada pode significar que ele não terá que fazer isso sozinho.",
+            "painel": "https://image.tmdb.org/t/p/w500/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 8,
+            "titulo": "A Morte de Robin Hood",
+            "lingua_original": "en",
+            "titulo_original": "The Death of Robin Hood",
+            "descricao": "Atormentado pelas cicatrizes de uma vida marcada pelo crime, Robin Hood sobrevive por pouco àquela que acreditava ser sua batalha final. Gravemente ferido, ele é encontrado por uma mulher misteriosa que o recolhe das sombras e passa a cuidar de seus ferimentos. Com o corpo fora de combate, cada erro cometido no passado volta para assombrá-lo.",
+            "painel": "https://image.tmdb.org/t/p/w500/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/o0QndnepFPWget2kdKpzh26RBYt.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 9,
+            "titulo": "Homem-Aranha: Sem Volta Para Casa",
+            "lingua_original": "en",
+            "titulo_original": "Spider-Man: No Way Home",
+            "descricao": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
+            "painel": "https://image.tmdb.org/t/p/w500/uyrOU4BDm2kbVxFsMiDFIHDhc4d.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/xaKydnMw6wR1MBAjS5seGPVusbs.jpg",
+            "ano": 2021
+        },
+        {
+            "id": 10,
+            "titulo": "Todo Mundo em Pânico",
+            "lingua_original": "en",
+            "titulo_original": "Scary Movie",
+            "descricao": "Vinte e seis anos depois de escaparem de um assassino mascarado suspeitosamente familiar, o Quarteto Fantástico está de volta à mira do criminoso, e nenhuma propriedade intelectual de filmes de terror está a salvo.",
+            "painel": "https://image.tmdb.org/t/p/w500/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/y9yJd2qIIwhZcllHeKHsz5eRvNr.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 11,
+            "titulo": "A Guerra dos Mundos",
+            "lingua_original": "en",
+            "titulo_original": "War of the Worlds",
+            "descricao": "Will Radford é um renomado analista de cibersegurança do Departamento de Segurança Interna dos Estados Unidos, encarregado de rastrear possíveis ameaças à segurança nacional por meio de um programa de vigilância em massa. No entanto, um ataque inesperado por uma entidade desconhecida o leva a suspeitar que o governo esteja escondendo algo dele… e do restante do mundo.",
+            "painel": "https://image.tmdb.org/t/p/w500/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/yY5CbfXBxsPvYi0TzmaCP7uunnn.jpg",
+            "ano": 2025
+        },
+        {
+            "id": 12,
+            "titulo": "Star Wars: O Mandaloriano e Grogu",
+            "lingua_original": "en",
+            "titulo_original": "The Mandalorian and Grogu",
+            "descricao": "O maligno Império caiu e os senhores da guerra Imperiais ainda estão espalhados pela galáxia. Enquanto a jovem Nova República luta para proteger tudo pelo que a Rebelião batalhou, ela conta com a ajuda do lendário caçador de recompensas Mandaloriano Din Djarin e seu jovem aprendiz Grogu.",
+            "painel": "https://image.tmdb.org/t/p/w500/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/dNwaS0tnwgQRaQFPY5MbGxdmYXr.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 13,
+            "titulo": "A Queda 2: No Limite",
+            "lingua_original": "en",
+            "titulo_original": "Fall 2: Deadpoint",
+            "descricao": "De luto pela morte de sua irmã Shiloh, Jax Hunter cria um laço com Luce, a amiga corajosa de Shiloh. Juntas, elas enfrentam a perigosa passarela suspensa do Monte Kwan, na Tailândia. Quando um deslizamento de rochas as deixa presas em uma estreita prancha a mais de 3.000 metros de altitude, Jax precisa enfrentar seus medos para sobreviver.",
+            "painel": "https://image.tmdb.org/t/p/w500/yQXU4rgJ5LVCzn16SeIg34T35lV.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/xtxEvJACNnbz3WYmJ5mYT1a0KGk.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 14,
+            "titulo": "Supergirl",
+            "lingua_original": "en",
+            "titulo_original": "Supergirl",
+            "descricao": "Quando um adversário implacável atinge alguém muito próximo dela, Kara Zor-El relutantemente une forças com uma companheira improvável em uma épica jornada interestelar de vingança e justiça.",
+            "painel": "https://image.tmdb.org/t/p/w500/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/qhXfLI1gDWaahzfHT0cb2CH61hO.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 15,
+            "titulo": "Avatar Aang: O Último Mestre do Ar",
+            "lingua_original": "en",
+            "titulo_original": "Avatar Aang: The Last Airbender",
+            "descricao": "O Avatar Aang, o último mestre do ar do mundo, toma conhecimento de um poder antigo que poderia salvar sua cultura da extinção. Com a ajuda de seus amigos, ele embarca em uma busca global para encontrá-lo antes que caia em mãos erradas e ameace destruir a paz que eles sacrificaram tudo para alcançar.",
+            "painel": "https://image.tmdb.org/t/p/w500/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/tiUtJXN4OZaK2PQM0q8mbbBgKS4.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 16,
+            "titulo": "Animales",
+            "lingua_original": "es",
+            "titulo_original": "Animales",
+            "descricao": "Quatro casais navegam na linha tênue entre o desejo e a busca pela autenticidade, em um mundo onde a verdade é tão frágil quanto seus relacionamentos.",
+            "painel": "https://image.tmdb.org/t/p/w500/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/9fbZdiOI9fRinl44mNm3CYgEtYR.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 17,
+            "titulo": "Ponto Sem Retorno",
+            "lingua_original": "en",
+            "titulo_original": "The Dog Stars",
+            "descricao": "Após a população mundial ter sido devastada por uma pandemia, um homem vive uma existência solitária em um hangar de aviões no Colorado com seu cachorro e um pistoleiro taciturno com quem fez amizade. Quando uma transmissão misteriosa surge no rádio enquanto ele pilota seu velho Cessna, isso desencadeia uma busca pela origem do som.",
+            "painel": "https://image.tmdb.org/t/p/w500/quAHqi4zBrB5fIfHvgrqiG4xzAC.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/1C2qbfUW3lTzb8vpZeG8pjYzW3Q.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 18,
+            "titulo": "Os Vingadores: The Avengers",
+            "lingua_original": "en",
+            "titulo_original": "The Avengers",
+            "descricao": "Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.",
+            "painel": "https://image.tmdb.org/t/p/w500/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/PtSapjHdDjlVcsqdEo0u7rDE6i.jpg",
+            "ano": 2012
+        },
+        {
+            "id": 19,
+            "titulo": "Bury the Devil",
+            "lingua_original": "en",
+            "titulo_original": "Bury the Devil",
+            "descricao": "Uma enfermeira fica presa junto a um paciente com demência em uma casa durante 86 minutos de horror em tempo real.",
+            "painel": "https://image.tmdb.org/t/p/w500/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/yQ3GeVsebrhOPIBhIdoSslbndEv.jpg",
+            "ano": 2026
+        },
+        {
+            "id": 20,
+            "titulo": "Águas Mortais",
+            "lingua_original": "en",
+            "titulo_original": "Deep Water",
+            "descricao": "Um voo de Los Angeles para Xangai cai no meio do Oceano Pacífico. Após sobreviverem ao acidente, os passageiros logo percebem que não estão sozinhos e precisam lutar pela própria vida em águas infestadas por tubarões.",
+            "painel": "https://image.tmdb.org/t/p/w500/szKv713FcUXx6hcfdY369vtkmzr.jpg",
+            "poster": "https://image.tmdb.org/t/p/w500/dWsw0X420R6ngEcVCkNlZ189Amr.jpg",
+            "ano": 2026
+        }
+    ]
+}
